@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: \\nas.ads.mwn.de\ga42kaf\Dokumente\Altium\ADC_Board\Thomas_ADC_U3\Thomas_ADC_U3\UltraZohm_ADC_2v03\UltraZohm_ADC.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.50
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
