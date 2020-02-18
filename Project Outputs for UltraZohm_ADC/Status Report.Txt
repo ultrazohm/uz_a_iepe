@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UltraZohm_ADC.PcbDoc]
+   Generated File[UltraZohm_ADC.TXT]
+   Generated File[UltraZohm_ADC.LDP]
+   Generated File[UltraZohm_ADC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:40:40 On 17.09.2019
