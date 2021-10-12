@@ -1,0 +1,120 @@
+Protel Design System Design Rule Check
+PCB File : E:\10_Altium\ultrazohm_analog_iepe\uz_d_iepe.PcbDoc
+Date     : 12.10.2021
+Time     : 10:05:45
+
+Processing Rule : Clearance Constraint (Gap=0.09mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.09mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=0.174mm) (Preferred=0.127mm) (InNetClass('S55'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.089mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (13.109mm,45.533mm) from Top Layer to Bottom Layer And Via (13.559mm,46.133mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (13.109mm,46.733mm) from Top Layer to Bottom Layer And Via (13.559mm,46.133mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (13.559mm,46.133mm) from Top Layer to Bottom Layer And Via (14.009mm,45.533mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (13.559mm,46.133mm) from Top Layer to Bottom Layer And Via (14.009mm,46.733mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.41mm,17.977mm) from Top Layer to Bottom Layer And Via (53.86mm,18.577mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.41mm,19.177mm) from Top Layer to Bottom Layer And Via (53.86mm,18.577mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.509mm,11.301mm) from Top Layer to Bottom Layer And Via (53.959mm,11.901mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.509mm,12.501mm) from Top Layer to Bottom Layer And Via (53.959mm,11.901mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.86mm,18.577mm) from Top Layer to Bottom Layer And Via (54.31mm,17.977mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.86mm,18.577mm) from Top Layer to Bottom Layer And Via (54.31mm,19.177mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.959mm,11.901mm) from Top Layer to Bottom Layer And Via (54.409mm,11.301mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.039mm < 0.089mm) Between Via (53.959mm,11.901mm) from Top Layer to Bottom Layer And Via (54.409mm,12.501mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.039mm] / [Bottom Solder] Mask Sliver [0.039mm]
+Rule Violations :12
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (OnLayer('Top Overlay') or OnLayer('Bottom Overlay'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (All)
+   Violation between Matched Net Lengths: Between Net ADC_OUT_N1 And Net ADC_OUT_P1 Actual Difference against ADC_OUT_P1 is: 0.715mm, Tolerance : 0.254mm. 
+   Violation between Matched Net Lengths: Between Net ADC_OUT_N2 And Net ADC_OUT_P2 Actual Difference against ADC_OUT_P2 is: 1.431mm, Tolerance : 0.254mm. 
+   Violation between Matched Net Lengths: Between Net ADC_OUT_N3 And Net ADC_OUT_P3 Actual Difference against ADC_OUT_P3 is: 1.428mm, Tolerance : 0.254mm. 
+   Violation between Matched Net Lengths: Between Net ADC_OUT_N4 And Net ADC_OUT_P4 Actual Difference against ADC_OUT_P4 is: 1.431mm, Tolerance : 0.254mm. 
+   Violation between Matched Net Lengths: Between Net CLK_N And Net CLK_P Actual Difference against CLK_P is: 1.05mm, Tolerance : 0.254mm. 
+Rule Violations :5
+
+Processing Rule : Room IEPE4 (Bounding Region = (136.068mm, 110.094mm, 188.868mm, 134.294mm) (InComponentClass('IEPE4'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp1 (Bounding Region = (111.668mm, 37.494mm, 139.993mm, 61.694mm) (InComponentClass('OpAmp1'))
+Rule Violations :0
+
+Processing Rule : Room IEPE3 (Bounding Region = (136.068mm, 85.894mm, 188.868mm, 110.094mm) (InComponentClass('IEPE3'))
+Rule Violations :0
+
+Processing Rule : Room IEPE2 (Bounding Region = (136.068mm, 61.654mm, 188.868mm, 85.854mm) (InComponentClass('IEPE2'))
+Rule Violations :0
+
+Processing Rule : Room IEPE1 (Bounding Region = (136.068mm, 37.494mm, 188.868mm, 61.694mm) (InComponentClass('IEPE1'))
+Rule Violations :0
+
+Processing Rule : Room ADC2 (Bounding Region = (85.068mm, 70.494mm, 111.668mm, 85.894mm) (InComponentClass('ADC2'))
+Rule Violations :0
+
+Processing Rule : Room ADC1 (Bounding Region = (85.068mm, 55.094mm, 111.668mm, 70.494mm) (InComponentClass('ADC1'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp4 (Bounding Region = (111.668mm, 110.088mm, 140.018mm, 134.294mm) (InComponentClass('OpAmp4'))
+Rule Violations :0
+
+Processing Rule : Room ADC3 (Bounding Region = (85.068mm, 85.894mm, 111.668mm, 101.294mm) (InComponentClass('ADC3'))
+Rule Violations :0
+
+Processing Rule : Room ADC4 (Bounding Region = (85.068mm, 101.294mm, 111.668mm, 116.694mm) (InComponentClass('ADC4'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp2 (Bounding Region = (111.668mm, 61.388mm, 140.018mm, 85.894mm) (InComponentClass('OpAmp2'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp3 (Bounding Region = (111.668mm, 85.688mm, 139.993mm, 110.094mm) (InComponentClass('OpAmp3'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Matched Lengths(Tolerance=0.254mm) (All)
+   Waived Violation between Matched Net Lengths: Between Net IN_N1 And Net IN_P1 Actual Difference against IN_P1 is: 1.171mm, Tolerance : 0.254mm. Waived by Michaela Gremer at 11.10.2021 10:28:16The feature net tuning is not used --> therefore matched net length are not observed
+   Waived Violation between Matched Net Lengths: Between Net IN_N2 And Net IN_P2 Actual Difference against IN_P2 is: 1.231mm, Tolerance : 0.254mm. Waived by Michaela Gremer at 11.10.2021 10:28:16The feature net tuning is not used --> therefore matched net length are not observed
+   Waived Violation between Matched Net Lengths: Between Net IN_N3 And Net IN_P3 Actual Difference against IN_P3 is: 1.231mm, Tolerance : 0.254mm. Waived by Michaela Gremer at 11.10.2021 10:28:16The feature net tuning is not used --> therefore matched net length are not observed
+   Waived Violation between Matched Net Lengths: Between Net IN_N4 And Net IN_P4 Actual Difference against IN_P4 is: 1.33mm, Tolerance : 0.254mm. Waived by Michaela Gremer at 11.10.2021 10:28:16The feature net tuning is not used --> therefore matched net length are not observed
+Waived Violations :4
+
+
+Violations Detected : 17
+Waived Violations : 4
+Time Elapsed        : 00:00:08

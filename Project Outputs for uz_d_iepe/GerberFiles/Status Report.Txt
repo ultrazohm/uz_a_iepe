@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [uz_d_iepe.PrjPCB]
+   Generated File[uz_d_iepe.GTO]
+   Generated File[uz_d_iepe.GTS]
+   Generated File[uz_d_iepe.GTL]
+   Generated File[uz_d_iepe.G1]
+   Generated File[uz_d_iepe.G2]
+   Generated File[uz_d_iepe.GBL]
+   Generated File[uz_d_iepe.GBS]
+   Generated File[uz_d_iepe.GBO]
+   Generated File[uz_d_iepe.GM1]
+   Generated File[uz_d_iepe.GM5]
+   Generated File[uz_d_iepe.GM6]
+   Generated File[uz_d_iepe.GM9]
+   Generated File[uz_d_iepe.GM10]
+   Generated File[uz_d_iepe.GM11]
+   Generated File[uz_d_iepe.GM12]
+   Generated File[uz_d_iepe.GM14]
+   Generated File[uz_d_iepe.GM17]
+   Generated File[uz_d_iepe.GM18]
+   Generated File[uz_d_iepe.GM19]
+   Generated File[uz_d_iepe.GM20]
+   Generated File[uz_d_iepe.GM21]
+   Generated File[uz_d_iepe.GM22]
+   Generated File[uz_d_iepe.GM23]
+   Generated File[uz_d_iepe.GKO]
+   Generated File[uz_d_iepe.RUL]
+   Generated File[uz_d_iepe.EXTREP]
+   Generated File[uz_d_iepe.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 09:58:54 On 12.10.2021

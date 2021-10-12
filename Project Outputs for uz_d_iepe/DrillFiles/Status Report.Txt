@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [uz_d_iepe.PrjPCB]
+   Generated File[uz_d_iepe.TXT]
+   Generated File[uz_d_iepe.LDP]
+   Generated File[uz_d_iepe.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:04:53 On 12.10.2021
